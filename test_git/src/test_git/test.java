@@ -7,6 +7,7 @@ public class test {
 		System.out.print("test/n");
 		System.out.print("test2/n");
 		System.out.print("test3/n");
+		System.out.print("test4/n");
 
 	}
 
