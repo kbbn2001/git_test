@@ -9,8 +9,12 @@ public class test {
 		System.out.print("Testing Error\n");
 		System.out.print("test3\n");
 		System.out.print("test4\n");
+
+		System.out.print("test7\n");
+
 		System.out.println("Ya!\n");
 		GxicxigouxaClass.PrintMyId();
+
 	}
 
 }
